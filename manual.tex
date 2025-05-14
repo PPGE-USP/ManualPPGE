@@ -1,7 +1,7 @@
 % Classe do documento
-\documentclass[twoside a4paper 12pt]{report}
+\documentclass[twoside, a4paper, 12pt]{report}
 % Pacotes e comandos customizados
-\include{meta}
+\input{meta}
 \usepackage{indentfirst} %deslocamento na primeira linha de cada paragrafo
 %Alteração de tamanho de fonte de headings
 \sectionfont{\huge}
@@ -15,9 +15,9 @@
 % Início do texto
 
 \begin{document}
-\Large
+%\Large
 % Fonte aumentada: nao aumenta tudo (não aumenta os titulos de secoes nem rodapes)
-%\scalefont{1.25}
+\scalefont{1.25}
 
 %capa e sumário
 %\include{manual_capa}
