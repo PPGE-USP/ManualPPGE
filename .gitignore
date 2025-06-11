@@ -7,3 +7,4 @@ oldies/
 *.toc
 ~*
 *~
+.Rproj.user
