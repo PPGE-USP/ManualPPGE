@@ -8,8 +8,8 @@ $cached_env_img{$key} = q|<IMG
  ALT="\begin{spacing}{1.2}
 Glauco Machado (Coordenador)\\\\
 suplente: Rodrigo Cogni \...
-...entante discente)\ [0.75 em]
-suplente: Bianca dos Santos Neves
+...ntante discente)\ [0.75 em]
+suplente: Thais Gomes Piazza Faria
 \end{spacing}">|; 
 
 1;
