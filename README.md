@@ -16,7 +16,7 @@ Execute os comandos abaixo na sua cópia local deste repositório e
 então sincronize sua cópia com o repositório no GitHub para que as
 mudnaças tenham efeito na página do PPGE.
 
-É preciso ter os programas `pdflatex` e `latex2hatml` instalados em
+É preciso ter os programas `pdflatex` e `latex2html` instalados em
 seu computador local.
 
 1. Manual em formato apostila: execute `pdflatex manual.tex`
