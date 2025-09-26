@@ -14,7 +14,7 @@
 ## Para gerar os manuais
 Execute os comandos abaixo na sua cópia local deste repositório e
 então sincronize sua cópia com o repositório no GitHub para que as
-mudnaças tenham efeito na página do PPGE.
+mudanças tenham efeito na página do PPGE.
 
 É preciso ter os programas `pdflatex` e `latex2html` instalados em
 seu computador local.
